@@ -1,0 +1,32 @@
+{
+    "name": "vicistack/ai-outbound-call-center-2026",
+    "description": "How to Build an AI-Powered Outbound Call Center From Scratch in 2026",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "vicidial",
+        "asterisk",
+        "call-center",
+        "voip",
+        "predictive-dialer",
+        "outbound",
+        "call",
+        "center",
+        "2026"
+    ],
+    "homepage": "https://vicistack.com/blog/ai-outbound-call-center-2026/",
+    "authors": [
+        {
+            "name": "ViciStack",
+            "homepage": "https://vicistack.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ViciStack\\AiOutboundCallCenter2026\\": "src/"
+        }
+    }
+}
